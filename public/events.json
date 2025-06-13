@@ -1,0 +1,62 @@
+[
+  {
+    "startTime": "2025-06-13 12:00 AM",
+    "endTime": "2025-06-13 01:30 AM",
+    "color": "#f6be23",
+    "title": "Daily Standup"
+  },
+  {
+    "startTime": "2025-06-13 12:30 AM",
+    "endTime": "2025-06-13 02:00 AM",
+    "color": "#e45c5c",
+    "title": "Backend Sync"
+  },
+  {
+    "startTime": "2025-06-20 10:00 AM",
+    "endTime": "2025-06-20 11:00 AM",
+    "color": "#5ca9e4",
+    "title": "Client Meeting"
+  },
+  {
+    "startTime": "2025-06-15 09:00 AM",
+    "endTime": "2025-06-15 10:00 AM",
+    "color": "#34d399",
+    "title": "Design Review"
+  },
+  {
+    "startTime": "2025-06-15 02:00 PM",
+    "endTime": "2025-06-15 03:00 PM",
+    "color": "#8b5cf6",
+    "title": "Sprint Planning"
+  },
+  {
+    "startTime": "2025-06-18 01:00 PM",
+    "endTime": "2025-06-18 02:30 PM",
+    "color": "#f97316",
+    "title": "1:1 Meeting"
+  },
+  {
+    "startTime": "2025-06-22 11:00 AM",
+    "endTime": "2025-06-22 12:00 PM",
+    "color": "#10b981",
+    "title": "Project Demo"
+  },
+  {
+    "startTime": "2025-05-24 04:00 PM",
+    "endTime": "2025-05-24 05:00 PM",
+    "color": "#3b82f6",
+    "title": "Performance Review"
+  },
+  {
+    "startTime": "2025-06-28 08:30 AM",
+    "endTime": "2025-06-28 09:30 AM",
+    "color": "#ef4444",
+    "title": "Security Briefing"
+  },
+  {
+    "startTime": "2025-07-30 10:00 AM",
+    "endTime": "2025-07-30 11:30 AM",
+    "color": "#6366f1",
+    "title": "Tech Talk"
+  }
+]
